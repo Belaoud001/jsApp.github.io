@@ -39,6 +39,7 @@ img {
 .pressed {
     box-shadow: 0 3px 4px 0 #2C2957;
     opacity: 0.5;
+    border: 0px solid white !important;
 }
 
 .item {
